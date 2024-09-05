@@ -1,5 +1,8 @@
 # Movie Recommendation System
 
+## Application Preview
+![App Interface](interface.png)
+
 This project is a **Movie Recommendation System** built using **Streamlit**. The application takes a movie title as input from the user and suggests 5 movies similar to the input movie using a correlation method based on user ratings. 
 
 ![Movie Recommendation System](moviepictures.webp)
