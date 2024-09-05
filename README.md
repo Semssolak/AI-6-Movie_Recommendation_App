@@ -14,8 +14,9 @@ This project is a **Movie Recommendation System** built using **Streamlit**. The
 
 ### How to Use
 1. **Movie Input**: Enter the name of a movie you like in the input field.
-2. **Recommendation**: Press the "Recommend" button, and the app will suggest 5 similar movies.
-3. **Dataset**: You can use your own dataset by changing the user rating and movie titles dataset paths in the `main.py` file.
+2. Only movies in the data set can be searched and the name must be entered exactly as in the data set.
+3. **Recommendation**: Press the "Recommend" button, and the app will suggest 5 similar movies.
+4. **Dataset**: You can use your own dataset by changing the user rating and movie titles dataset paths in the `main.py` file.
 
 ## Customize for Different Datasets
 - If you want to use this application with a different dataset, replace the `users.data` and `movie_id_titles.csv` files with your own.
